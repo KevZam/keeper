@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Note from './components/Note';
 import notes from './notes';
 
+// entry point for the app
 function App() {
   return (
 
